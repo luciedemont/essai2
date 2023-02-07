@@ -1,4 +1,4 @@
-import Card from "./card.js"; // On importe la classe Card du module card.js
+import Card from "./Card.js"; // On importe la classe Card du module card.js
 import shuffle from "./node_modules/lodash-es/shuffle.js"; // on importe la fonction shuffle du module shuffle.js de la librairie lodash
 
 class Deck {

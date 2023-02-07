@@ -1,4 +1,4 @@
-import Deck from "./deck.js"; // On importe la classe Deck du module deck.js
+import Deck from "./Deck.js"; // On importe la classe Deck du module deck.js
 
 const options = {
   // Objet contenant les options comme demandé dans la consigne
